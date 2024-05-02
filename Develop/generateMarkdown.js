@@ -36,7 +36,6 @@ ${data.installation}
 
 ## Usage
 ${data.usage}
-
 ${renderLicenseSection(data.license)}
 
 ## Contribution
