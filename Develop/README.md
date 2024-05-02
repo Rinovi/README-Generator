@@ -1,4 +1,5 @@
 # README Generator Example
+# A README Generator description for example purposes
 
 ## Description
 
@@ -21,9 +22,10 @@ Run 'npm install' then type node index.js into the terminal
 
 This can be used to create a wonderful README File with ease
 
-## License
+## License  
 
-This project is licensed under the MIT License. Click here for more deatils. ([License](https://opensource.org/licenses/MIT))
+![License](https://img.shields.io/badge/License-MIT-blue.svg)  
+This project is licensed under the MIT License. Click here for more details: ([License](https://opensource.org/licenses/MIT))
 
 ## Contribution
 
