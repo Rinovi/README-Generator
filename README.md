@@ -12,8 +12,10 @@ The following is an image of what one may see while following the prompts to gen
 In order to use the project. Start by opening the index.js command line in your integrated terminal. Secondly, type 'npm install' to download the dpenedencies for Inquirer. Next, run node index.js in the terminal to get started. Finally, enter in your response to
 every prompt in the terminal. Upon completion, you'll be able to see a dynamically generated README file that has been added into the project. 
 The following is an example video from start to finish on how to use the command line with this project to take advantage of it's functinality: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SmSqOLAns58?si=xfYNXDqH82aTKT7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SmSqOLAns58/0.jpg)](https://www.youtube.com/watch?v=SmSqOLAns58)
+
 ## Credits
 
-This project was created by completing starter code provided by the following repository: https://github.com/coding-boot-camp/potential-enigma . Please feel free to check it out!
-Also, credits to the wonderful command line interface for Node.JS, Inquirer: https://www.npmjs.com/package/inquirer
+This project was created by completing starter code provided by the following repository:
+* https://github.com/coding-boot-camp/potential-enigma . Please feel free to check it out!
+* Also, credits to the wonderful command line interface for Node.JS, Inquirer: https://www.npmjs.com/package/inquirer
