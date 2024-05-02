@@ -1,5 +1,4 @@
 # README Generator Example
-# A README Generator description for example purposes
 
 ## Description
 
