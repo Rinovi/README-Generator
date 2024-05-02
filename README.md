@@ -16,5 +16,5 @@ every prompt in the terminal. Upon completion, you'll be able to see a dynamical
 
 ## Credits
 
-This project was created by completing starter code provided by the following repository. Please feel free to check it out! https://github.com/coding-boot-camp/potential-enigma 
+* This project was created by completing starter code provided by the following repository. Please feel free to check it out! https://github.com/coding-boot-camp/potential-enigma 
 * Also, credits to the wonderful command line interface for Node.JS, Inquirer: https://www.npmjs.com/package/inquirer
